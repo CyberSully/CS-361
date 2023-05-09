@@ -12,3 +12,5 @@ As mentioned above, a simple run command is going to initiate the microservice t
 ![image](https://user-images.githubusercontent.com/93303949/236999655-67ac7b3e-cc0f-4e47-9657-922f48fabeca.png)
 ![image](https://user-images.githubusercontent.com/93303949/237000059-e4061995-6eac-4b81-b4b4-5fb00b0c8709.png)
 As you can see in the flow chart, once the run command is processed, the program will write back with specific data requested. 
+This is a diagram showing the realtionships happening between the 3 separate micro-services working together step by step: 
+![image](https://user-images.githubusercontent.com/93303949/237007362-261b70ae-e257-4cc6-8988-c013947f65ad.png)
